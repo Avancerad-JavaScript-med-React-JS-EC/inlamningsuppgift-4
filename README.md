@@ -1,3 +1,27 @@
+# Inlämningsuppgift 4
+
+Du ska i denna inlämningsuppgift göra en biljettsida där du kan "köpa" biljetter till ett evenemang. Du ska implementera enligt nedanstående skiss.
+
+Figmaskiss: https://www.figma.com/file/m50rp2hEhZfOVHKQWKWf0Y/Where-its-%40---React?node-id=0%3A1
+
+## Hur det ska fungera
+* Användaren ska kunna se ett antal evenemang och kunna välja ett.
+* Efter att användaren har valt ett evenemang så ska denna komma till en bekräfta-sida.
+* Efter köpet så kommer man till en tack-för-ditt-köp sida.
+* Evenemangen kan exempelvis ligga i en JSON-fil som du läser in likt childrensbooks.json.
+
+## Krav för godkänt
+
+* Din sida ska vara implementerad enligt skiss.
+* Du ska använda dig av React Router och det ska finnas tre routes, en för varje sida.
+
+## Inlämning
+
+Inlämning är på Github i det repo som skapades via Github Classroom. Ta länken till ditt repo och
+lägg till som en kommentar på Ping Pong och lämna in uppgiften där senast **22 feb 2021 23:59**.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
